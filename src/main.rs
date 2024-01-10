@@ -1,5 +1,5 @@
 fn main() {
-  let x:&str = "Hello, world!"; // Immutable variable
+  let x:&str = "Hello, world!"; 
   print_type_of(&x);
 }
 
